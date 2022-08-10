@@ -1,3 +1,3 @@
 # Leetcode-solution
 Leetcode problem solutions
-Solving a leetcode problem every day.
+_Target completing 30 leetcode problem 
